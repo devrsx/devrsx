@@ -5,7 +5,12 @@
 - <b>Windows Server Active Directory Home Lab</b>  
   - [Setup & Automation with PowerShell](https://github.com/devrsx/active-directory-home-lab)  
   - Built a virtualized Windows Server environment using VirtualBox, promoted a Domain Controller, and used PowerShell to bulk-create users in Active Directory.
+ 
+<h2>🌐 Front-End Web Development Projects:</h2>
 
+- <b>🎮 Game Website</b>  
+  - [HTML, CSS, JavaScript Game Site](https://github.com/devrsx/game-website)  
+  - Built a responsive website for a game using HTML, CSS, and JavaScript, featuring a simple video switcher. Designed for a smooth user experience optimized for both desktop and mobile devices.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
